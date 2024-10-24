@@ -1,3 +1,5 @@
+#= -*- coding: cp852 -*-
+
 import os
 import re  # Wyra¾enia regularne
 from colorama import Fore, Style, init  # Kolorowanie tekstu
